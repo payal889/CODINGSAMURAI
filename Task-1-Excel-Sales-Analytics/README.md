@@ -29,6 +29,3 @@ This project provides a clear understanding of sales performance and product-wis
 
 
 
-
-## Author
-Payal Dhage
